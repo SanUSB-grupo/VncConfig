@@ -2,7 +2,7 @@
 
 Configuração automática do TightVNC para Raspberry Pi
 
-## Descriçaão
+## Descrição
 
 Para instalação automática do **TightVNC** no Raspberry Pi e configuração da inicialização automática, execute os seguintes passos. 
 
